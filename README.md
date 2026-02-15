@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Swiftly Ez
 
-<!--
-**Swiftly-Ez/Swiftly-Ez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Multi-language developer  
+🎮 Gamer who builds bots, games, and web apps  
+⚡ "If it can be coded, I’ll probably build it."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages**
+- JavaScript
+- C++
+- C#
+- C
+- Python
+- HTML
+
+**Builds**
+- 🤖 Discord Bots
+- 🎮 Games
+- 🌐 Web Apps
+- 🔧 Tools / Backend Systems
+
+---
+
+## 📈 Currently
+
+- Building a custom Discord bot
+- Improving architecture & clean code practices
+
+---
+
+## 🤝 Open To
+
+- Collaborations  
+- Freelance work  
+- Full-time opportunities  
+- Interesting projects
+
+---
+
+## 🎮 Outside of Code
+
+Gaming — inspiration for a lot of what I build.
