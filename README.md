@@ -99,7 +99,9 @@ Built for performance. Built for long nights. 💜
 ## 🌌 Community
 
 💬 Discord: **zenscriptdev**
+
 🌍 Server: [https://discord.gg/swiftlegion](https://discord.gg/swiftlegion)
+
 🔗 Linktree: [https://linktr.ee/ZenScript](https://linktr.ee/ZenScript)
 
 ---
