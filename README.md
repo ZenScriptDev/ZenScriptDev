@@ -14,6 +14,8 @@
 
 ---
 
+<p align="center">━━━ 🌸 ━━━</p>
+
 ## 💫 About Me
 
 ```yaml
@@ -32,6 +34,8 @@ mission: Ship a full game & grow a long-term community.
 * 🧠 Competitive but also enjoys relaxing
 
 ---
+
+<p align="center">━━━ ⚔️ ━━━</p>
 
 ## 🖥️ Dev Setup
 
@@ -67,6 +71,8 @@ Built for performance. Built for long nights. 💜
 
 ---
 
+<p align="center">━━━ 🎯 ━━━</p>
+
 ## 🚀 Current Goals
 
 * 📦 Build a polished portfolio
@@ -76,6 +82,8 @@ Built for performance. Built for long nights. 💜
 
 ---
 
+<p align="center">━━━ 📊 ━━━</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -83,11 +91,11 @@ Built for performance. Built for long nights. 💜
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZenScriptDev&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=9400D3" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenScriptDev&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2" height="150"/>
-</p>
 
 ---
+
+
+<p align="center">━━━ 🎵 ━━━</p>
 
 ## 🎵 Now Playing on Spotify
 
@@ -99,6 +107,8 @@ Built for performance. Built for long nights. 💜
 
 ---
 
+<p align="center">━━━ 🌐 ━━━</p>
+
 ## 🌌 Community
 
 💬 Discord: **zenscriptdev**
@@ -106,6 +116,8 @@ Built for performance. Built for long nights. 💜
 🔗 Linktree: [https://linktr.ee/ZenScript](https://linktr.ee/ZenScript)
 
 ---
+
+<p align="center">━━━ 💭 ━━━</p>
 
 ## 🧠 Fun Facts
 
