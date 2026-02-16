@@ -91,20 +91,6 @@ Built for performance. Built for long nights. 💜
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZenScriptDev&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=9400D3" height="170"/>
 </p>
 
-
----
-
-
-<p align="center">━━━ 🎵 ━━━</p>
-
-## 🎵 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=ditjl2l3y90j4bxsiyeocuqso">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ditjl2l3y90j4bxsiyeocuqso&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=8A2BE2&bar_color_cover=true"/>
-  </a>
-</p>
-
 ---
 
 <p align="center">━━━ 🌐 ━━━</p>
