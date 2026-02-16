@@ -89,19 +89,11 @@ Built for performance. Built for long nights. 💜
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZenScriptDev/ZenScriptDev/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOURSPOTIFYID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOURSPOTIFYID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=8A2BE2&bar_color_cover=true"/>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=ditjl2l3y90j4bxsiyeocuqso">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ditjl2l3y90j4bxsiyeocuqso&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=8A2BE2&bar_color_cover=true"/>
   </a>
 </p>
 
