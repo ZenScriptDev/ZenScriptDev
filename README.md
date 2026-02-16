@@ -1,8 +1,6 @@
 # Hi 👋, I'm Zen Script
 
-### Developer building bots, games, and immersive web experiences
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZenScriptDev&label=Profile views&color=0e75b6&style=flat" alt="ZenScriptDev" /> </p>
+### Developer building bots, games, and immersive web experience
 
 <p align="left"> <a href="https://twitter.com/zenscriptdev" target="blank"><img src="https://img.shields.io/twitter/follow/zenscriptdev?logo=twitter&style=for-the-badge" alt="zenscriptdev" /></a> </p>
 
