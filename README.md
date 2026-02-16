@@ -87,7 +87,8 @@ Built for performance. Built for long nights. 💜
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZenScriptDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=9400D3" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZenScript&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=9400D3" height="170"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZenScriptDev&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=9400D3" height="170"/>
 </p>
 
